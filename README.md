@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MansourMhz
-- 👀 I’m interested in Python,C++,Machine Learning,Algorithm,Linux
+- 👀 I’m interested in Linux
 
 
 <!---
